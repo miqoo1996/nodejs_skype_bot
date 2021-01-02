@@ -1,0 +1,83 @@
+{ avatarUrl:
+   'https://avatar.skype.com/v1/avatars/functionchecking?auth_key=-19702364',
+  birthday: '1988-11-20',
+  gender: 'male',
+  locations:
+   [ { type: 'home', country: 'am', city: 'Yerevan', state: undefined } ],
+  phones: undefined,
+  mood: undefined,
+  name:
+   { first: 'Vlad',
+     surname: undefined,
+     nickname: undefined,
+     company: undefined },
+  about: undefined,
+  website: undefined,
+  language: 'ru' }
+
+
+
+
+  ==================
+
+
+
+
+
+  { personId: '8:seroj.harutyunyan42',
+    mri: '8:seroj.harutyunyan42',
+    displayName: 'Seroj Harutyunyan',
+    displayNameSource: 1,
+    phones: undefined,
+    profile:
+     { avatarUrl:
+        'https://avatar.skype.com/v1/avatars/seroj.harutyunyan42?auth_key=632644039',
+       birthday: '1900-11-20',
+       gender: 'male',
+       locations: [ [Object] ],
+       phones: undefined,
+       mood: undefined,
+       name:
+        { first: 'Seroj',
+          surname: 'Harutyunyan',
+          nickname: undefined,
+          company: undefined },
+       about: undefined,
+       website: undefined,
+       language: 'ru' },
+    agent: undefined,
+    authorized: true,
+    authCertificate: undefined,
+    blocked: false,
+    creationTime: 2019-09-19T06:22:30.081Z,
+    relationshipHistory: { sources: [ [Object], [Object] ] },
+    suggested: undefined,
+    phoneHashes: undefined } 7777
+  { personId: '8:live:c4fdc9330a82841d',
+    mri: '8:live:c4fdc9330a82841d',
+    displayName: 'O.Yeganyan',
+    displayNameSource: 1,
+    phones: undefined,
+    profile:
+     { avatarUrl: undefined,
+       birthday: undefined,
+       gender: undefined,
+       locations: [ [Object] ],
+       phones: undefined,
+       mood: undefined,
+       name:
+        { first: 'O.Yeganyan',
+          surname: undefined,
+          nickname: undefined,
+          company: undefined },
+       about: undefined,
+       website: undefined,
+       language: undefined },
+    agent: undefined,
+    authorized: true,
+    authCertificate: undefined,
+    blocked: false,
+    creationTime: 2019-09-12T11:30:33.075Z,
+    relationshipHistory: { sources: [ [Object], [Object] ] },
+    suggested: undefined,
+    phoneHashes: undefined }

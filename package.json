@@ -1,0 +1,34 @@
+{
+  "name": "skype_bot",
+  "version": "1.0.0",
+  "description": "Skype BOT",
+  "main": "app.js",
+  "dependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.12.1",
+    "babel-core": "^6.26.3",
+    "babel-node": "0.0.1-security",
+    "babel-preset-env": "^1.7.0",
+    "babelify": "^8.0.0",
+    "browserify": "^17.0.0",
+    "dotenv": "^8.2.0",
+    "es2015": "0.0.0",
+    "gulp": "^4.0.2",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.6",
+    "skype-http": "^0.0.15"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.12.10",
+    "@babel/core": "^7.12.10",
+    "@babel/node": "^7.12.10",
+    "@babel/preset-env": "^7.12.11"
+  },
+  "scripts": {
+    "start": "nodemon --exec babel-node app.js",
+    "stop-super": "sudo pkill node",
+    "stop": "pkill node",
+    "find-proc": "ps aux | grep node"
+  },
+  "author": "Michael Ishkhanyan",
+  "license": "ISC"
+}
